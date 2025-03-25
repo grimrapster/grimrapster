@@ -28,6 +28,10 @@ Currently, I am pursuing a bachelor's degree in **Information Science** at the U
 ## Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/reagan-peterson-300430114). I'm always open to networking!
 
+## My Certifications!
+Here is a link to my Credly account [Credly](https://www.credly.com/users/reagan-peterson.daaac098).
+
+
 <!---
 grimrapster/grimrapster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
